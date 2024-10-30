@@ -12,7 +12,7 @@ Grupo:
 
 ## Para aplicar a infraestrutura presente neste projeto com tflocal, execute:
 ```
-tflocal apply infra.tfplan
+tflocal apply
 ```
 <br>
 
