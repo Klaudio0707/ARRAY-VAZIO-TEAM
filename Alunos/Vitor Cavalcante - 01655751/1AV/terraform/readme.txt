@@ -8,7 +8,7 @@ comandos necessários:
 
 para verificar os buckets:
 
-	aws s3 ls
+	- aws s3 ls
 
 
 obs: tive que excluir a pasta .terraform pois ela me impossibilitava de dar commit
