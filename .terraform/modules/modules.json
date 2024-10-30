@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"buckets","Source":"./modules/s3_buckets","Dir":"modules/s3_buckets"},{"Key":"notifications","Source":"./modules/notifications","Dir":"modules/notifications"},{"Key":"sqs_queues","Source":"./modules/sqs_queues","Dir":"modules/sqs_queues"},{"Key":"topic","Source":"./modules/sns_topics","Dir":"modules/sns_topics"}]}
